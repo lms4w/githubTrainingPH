@@ -1,3 +1,3 @@
 Hello world!
-Line 2
+Testing exercise from the Programming Historian Intro to GitHub
 Git going...
