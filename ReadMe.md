@@ -1,4 +1,1 @@
-Hello world!
-* Testing exercise from the Programming Historian Intro to GitHub
-* You can use *MarkDown* to **format** _text_
-* Now git going...
+This repository is a playspace for experimenting with learning GitHub. It draws from the Programming Historian Intro to GitHub.
