@@ -11,4 +11,9 @@ _Italics_
 
 * Explore different approaches to branching
 
-* Try to figure out what's going on with Headings. Answer: you need to add a space between the hash sign and heading.
+* To make headings display properly, you need to add a space between the pound sign and heading.
+
+Like this:
+# heading
+not this
+#heading
