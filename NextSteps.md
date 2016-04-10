@@ -1,16 +1,17 @@
 Next steps
 
-# Heading 1
 
-_Italics_
-**Bold**
+
 
 1. Experiment with branching
-2. Try MarkDown
-3. Merge your branch with the master
+2. Try Markdown
 
-* Explore different approaches to branching
+* # Heading 1
+
+* _Italics_
+* **Bold**
+
+3. Create a new branch, then merge it with the master
 
 
-
-To make headings display properly, you need to ensure there is a space between the pound sign and the text. So attention to detail is key.
+NB: To make headings display properly, you need to ensure there is a space between the pound sign and the text.
