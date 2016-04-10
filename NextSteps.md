@@ -11,9 +11,6 @@ _Italics_
 
 * Explore different approaches to branching
 
-* To make headings display properly, you need to add a space between the pound sign and heading.
 
-Like this:
-# heading
-not this
-#heading#
+
+To make headings display properly, you need to ensure there is a space between the pound sign and the text. So attention to detail is key.
