@@ -1,6 +1,6 @@
 # Your Turn #
 
-Try your hand at contributing to a GitHub repository.
+Explore contributing to a GitHub repository.
 
 _Experiment_ with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) while you're at it.
 
